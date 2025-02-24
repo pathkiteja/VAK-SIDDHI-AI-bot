@@ -1,0 +1,6 @@
+textblob
+speechrecognition
+pyttsx3
+langdetect
+transformers
+torch
