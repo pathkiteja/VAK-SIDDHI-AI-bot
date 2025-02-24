@@ -1,6 +1,7 @@
 ## Implementation Plan ##
 **🔹 Project Overview**
-**✅ Multilingual AI Chatbot (Handles Telugu, Hindi, English, or mixed)**
+
+ **✅ Multilingual AI Chatbot (Handles Telugu, Hindi, English, or mixed)** 
 **✅ Understands user mood & thoughts (Sentiment Analysis)**
 **✅ Saves user preferences & shortcuts (Memory Management)**
 **✅ Opens & remembers URLs (Smart Web Navigation)**
